@@ -15,7 +15,10 @@
 - ชื่อ-สกุล / รหัสนักศึกษา: นางสาวกชพร วงศ์ใหญ่ 67543210067-4
 - ชื่อ-สกุล / รหัสนักศึกษา: นางสาวดาวประกาย เสาร์สิงห์ 67543210027-8
 
-**Repository:** `final-lab-set1/`
+### 🔗 Project Links
+
+* **Repository 1:** [final-lab-set1 (dawprakai)](https://github.com/dawprakai/final-lab-set1)
+* **Repository 2:** [final-lab-set1 (itskotcha)](https://github.com/itskotcha/final-lab-set1)
 
 ---
 
